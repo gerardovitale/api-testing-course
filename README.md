@@ -1,1 +1,1 @@
-# api-testing-course
+# api-testing
